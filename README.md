@@ -50,12 +50,23 @@
 
 **网站主页**
 
-![](https://cdn.jsdelivr.net/gh/Wonz5130/My-Private-ImgHost/img/Snipaste_2020-08-27_16-21-27.png)
+![](https://github.com/Wonz5130/GitHub-Show-Site/blob/master/img/Snipaste_2020-08-27_16-21-27.png)
 
 **用户个人信息**
 
-![](https://cdn.jsdelivr.net/gh/Wonz5130/My-Private-ImgHost/img/Snipaste_2020-08-27_16-31-40.png)
+![](https://github.com/Wonz5130/GitHub-Show-Site/blob/master/img/Snipaste_2020-08-27_16-31-40.png)
 
-### 五、LICENSE
+### 五、教程笔记
+
+[Django 实战 | 搭一个 GitHub 用户展示网站 01](https://wonzwang.blog.csdn.net/article/details/108280143)
+
+[Django 实战 | 搭一个 GitHub 用户展示网站 02](https://wonzwang.blog.csdn.net/article/details/108280366)
+
+[Django 实战 | 搭一个 GitHub 用户展示网站 03](https://wonzwang.blog.csdn.net/article/details/108280496)
+
+[Django 实战 | 搭一个 GitHub 用户展示网站 04](https://wonzwang.blog.csdn.net/article/details/108280685)
+
+### 六、LICENSE
 
 [MIT](https://github.com/Wonz5130/GitHub-Show-Site/blob/master/LICENSE)
+
